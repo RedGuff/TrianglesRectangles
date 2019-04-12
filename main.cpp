@@ -5,7 +5,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Il existe des triangles rectangles particuliers (3;4;5), (5;12;13)..." << endl;
+    cout << "Il existe des triangles rectangles particuliers, avec uniquement des longueurs  en entiers." << endl;
+    cout << "Par exemple : (3;4;5), (5;12;13), (20;21;29)..." << endl;
     cout << "Voici de quoi les trouver tous, dans une gamme donnée." << endl;
     int aMax = 100;
     int bMax = 100;
